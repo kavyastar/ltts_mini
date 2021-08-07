@@ -18,7 +18,7 @@ Folder             | Description
 
 SF No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`256153` | kavya p c  | Calculator   | Nil     | Nil   |9   | YES    
+`256153` | kavya p c  | Calculator   | Nil     | Nil   |   |     
    
 
 ## Challenges Faced and How Was It Overcome
